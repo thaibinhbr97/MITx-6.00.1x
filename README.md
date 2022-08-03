@@ -18,8 +18,6 @@ This course is the first of a two-course sequence: [Introduction to Computer Sci
  - An informal introduction to algorithmic complexity  
  - Data structures
 
-https://replit.com/@thaibinhbr97/HangMan?v=1
-
 ### Syllabus
  - :white_check_mark: **Week 1:** Python Basics
  - :white_check_mark: **Week 2:** Simple Programs
