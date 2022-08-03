@@ -8,7 +8,7 @@ This course is the first of a two-course sequence: [Introduction to Computer Sci
 ### Projects:
 1. [Hangman](https://replit.com/@thaibinhbr97/HangMan?v=1): If you are a dictionary, beat the computer.
 2. [WordGame](https://replit.com/@thaibinhbr97/WordGame?v=1): Create the word with possible letters. There are two versions, playing the game by yourself or playing with my computer. Try and defeat my computer at this WordGame.
-3. [Message Encryption and Decryption](https://replit.com/@thaibinhbr97/Message-Encryption-and-Decryption?v=1): This is what Alan Turing uses to break German ciphers during the Second World War.
+3. [Message Encryption and Decryption](https://replit.com/@thaibinhbr97/Message-Encryption-and-Decryption?v=1): This is what Alan Turing used to break German ciphers during the Second World War.
 
 ### What You'll Learn
  - A Notion of computation  
