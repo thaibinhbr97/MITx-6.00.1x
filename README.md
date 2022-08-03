@@ -14,12 +14,12 @@ This course is the first of a two-course sequence: [Introduction to Computer Sci
  - Data structures
 
 ### Syllabus
- :white_check_mark: **Week 1:** [Python Basics]
- :white_check_mark: **Week 2:** [Simple Programs]
- :white_check_mark: **Week 3:** [Structured Types]
- :white_check_mark: **Week 4:** [Good Programming Practices]
- :white_check_mark: **Week 5:** [Object Oriented Programming]
- :white_check_mark: **Week 6:** [Algorithmic Complexity]
- :white_check_mark: **Week 7:** Plotting
+ - :white_check_mark: **Week 1:** [Python Basics]
+ - :white_check_mark: **Week 2:** [Simple Programs]
+ - :white_check_mark: **Week 3:** [Structured Types]
+ - :white_check_mark: **Week 4:** [Good Programming Practices]
+ - :white_check_mark: **Week 5:** [Object Oriented Programming]
+ - :white_check_mark: **Week 6:** [Algorithmic Complexity]
+ - :white_check_mark: **Week 7:** Plotting
 
 *Note: Week 6's Problem Set was a quiz, and Week 7's was the final exam.*
