@@ -257,18 +257,27 @@ def decrypt_story():
     story = CiphertextMessage(get_story_string())
     return story.decrypt_message()
         
-            
-            
+print()
+story = get_story_string()
+print("Message Encryption from Alan Turing")
+print()
+print(story)
+print()
+decrypted_story = decrypt_story()
+print()
+print("Message Decryption")
+print()
+print(decrypted_story)           
             
             
             
 
-#Example test case (PlaintextMessage)
-plaintext = PlaintextMessage('hello', 2)
-print('Expected Output: jgnnq')
-print('Actual Output:', plaintext.get_message_text_encrypted())
+# #Example test case (PlaintextMessage)
+# plaintext = PlaintextMessage('hello', 2)
+# print('Expected Output: jgnnq')
+# print('Actual Output:', plaintext.get_message_text_encrypted())
     
-#Example test case (CiphertextMessage)
-ciphertext = CiphertextMessage('jgnnq')
-print('Expected Output:', (24, 'hello'))
-print('Actual Output:', ciphertext.decrypt_message())
+# #Example test case (CiphertextMessage)
+# ciphertext = CiphertextMessage('jgnnq')
+# print('Expected Output:', (24, 'hello'))
+# print('Actual Output:', ciphertext.decrypt_message())
